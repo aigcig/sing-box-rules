@@ -1,2 +1,5 @@
-rule.ipynb
-openai.ipynb
+*.ipynb
+
+# vscode
+.vscode
+*.code-workspace
