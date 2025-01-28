@@ -2,7 +2,7 @@
     "version": 2,
     "rules": [
         {
-            "domain_regex": ["^linux\\.do"]
+            "domain": "linux.do"
         }
     ]
 }
