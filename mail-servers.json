@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain": [
+                "imap.gmail.com",
+                "smtp.gmail.com",
+                "imap.mail.me.com",
+                "smtp.mail.me.com",
+                "imap.qq.com",
+                "smtp.qq.com"
+            ]
+        }
+    ]
+} 
