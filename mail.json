@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "process_path_regex": "^/System/Applications/Mail.app/.+"
+        }
+    ]
+}
