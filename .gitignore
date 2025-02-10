@@ -3,3 +3,6 @@
 # vscode
 .vscode
 *.code-workspace
+
+# markdown
+*.md
